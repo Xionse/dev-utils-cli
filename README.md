@@ -22,3 +22,7 @@ Dev Utils CLI is a command-line tool that provides a collection of utilities to 
 Here are some examples of how to use the Dev Utils CLI:
 
 - Add a code snippet: dev-utils-cli: --name "sample_snippet" --language "Python" --code "print('Hello, world!')"
+- Convert a CSV file to JSON: dev-utils-cli convert-file --input "input.csv" --output "output.json" --format "csv" --to "json"
+- Generate 100 random user records in CSV format: dev-utils-cli generate-data --output "users.csv" --format "csv" --records 100
+
+
