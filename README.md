@@ -26,3 +26,14 @@ Here are some examples of how to use the Dev Utils CLI:
 - Generate 100 random user records in CSV format: dev-utils-cli generate-data --output "users.csv" --format "csv" --records 100
 
 
+For more detailed usage instructions and command references, please refer to the [documentation](https://link-to-your-documentation).
+
+## Contributing
+
+Contributions are welcome! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow our [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
