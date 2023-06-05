@@ -8,7 +8,6 @@ Dev Utils CLI is a command-line tool that provides a collection of utilities to 
 - **File Converter**: Convert files between different formats with a simple command, saving you time and effort.
 - **Data Generator**: Generate test data or sample datasets with various options and formats, making it easier to populate databases or perform data analysis.
 - **Task Manager**: Manage your tasks and deadlines from the command line, helping you stay organized and focused.
-- **[Add more features here]**: As the project evolves, additional features may be added to further empower developers.
 
 ## Installation
 
