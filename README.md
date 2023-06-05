@@ -21,4 +21,4 @@ Dev Utils CLI is a command-line tool that provides a collection of utilities to 
 
 Here are some examples of how to use the Dev Utils CLI:
 
-- Add a code snippet:
+- Add a code snippet: dev-utils-cli: --name "sample_snippet" --language "Python" --code "print('Hello, world!')"
