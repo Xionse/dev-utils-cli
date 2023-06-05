@@ -12,7 +12,7 @@ Dev Utils CLI is a command-line tool that provides a collection of utilities to 
 ## Installation
 
 1. Ensure you have [Python](https://www.python.org/) installed (version X.X.X or higher).
-2. Clone this repository: `git clone https://github.com/your-username/dev-utils-cli.git`
+2. Clone this repository: `git clone https://github.com/xionse/dev-utils-cli.git`
 3. Navigate to the project directory: `cd dev-utils-cli`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run the CLI tool: `python dev-utils.py`
