@@ -1,4 +1,4 @@
-# # Dev Utils CLI
+#Dev Utils CLI
 
 Dev Utils CLI is a command-line tool that provides a collection of utilities to automate repetitive tasks and enhance developer productivity.
 
